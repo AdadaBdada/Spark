@@ -26,7 +26,7 @@
   - Article 29 Data Protection Working Party (Section 3 & Annex) (on CANVAS)
 - Visualization: 
   - Shneiderman, Ben, Extreme Visualization: [Squeezing a Billion Records into a Million Pixels](http://www.cs.umd.edu/~ben/papers/Shneiderman2008Extreme.pdf)
-  - [Nanocubes for Real-Time Exploration of Spatiotemporal Datasets Lauro Lins], James T. Klosowski, and Carlos Scheidegger; (http://nanocubes.net/assets/pdf/nanocubes_paper.pdf) ,  [demos and open source](http://www.nanocubes.net/)
+  - [Nanocubes for Real-Time Exploration of Spatiotemporal Datasets Lauro Lins], James T. Klosowski, and Carlos Scheidegger (http://nanocubes.net/assets/pdf/nanocubes_paper.pdf) ,  [demos and open source](http://www.nanocubes.net/)
 - https://www.isaca.org/chapters3/Atlanta/AboutOurChapter/Documents/GW2014/Implementing%20a%20Data%20Governance%20Program%20-%20Chalker%202014.pdf
 
 
