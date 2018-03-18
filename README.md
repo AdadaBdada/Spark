@@ -2,9 +2,9 @@
 2018Spring 
 
 - Lin & Ryaboy, [“Scaling Big Data Mining Infrastructure: The Twitter Experience”](http://kdd.org/exploration_files/V14-02-02-Lin.pdf), SIGKDD Explorations, V14 I2 
-- McKinsey Global Institute, [“Big Data: The next frontier for innovation, competition, and productivity”](https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/big%20data%20the%20next%20frontier%20for%20innovation/mgi_big_data_exec_summary.ashx), 2011 
+- McKinsey Global Institute, [“Big Data: The next frontier for innovation, competition, and productivity”](https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/big%20data%20the%20next%20frontier%20for%20innovation/mgi_big_data_full_report.ashx), 2011 
 - Dean & Ghemawat, [“MapReduce:Simplified Data Processing on Large Clusters”](http://static.googleusercontent.com/media/research.google.com/en/us/archive/mapreduce-osdi04.pdf), 2004
-- Ghemawat, et al, “Google File System” , 2003
+- Ghemawat, et al, [“Google File System”](http://static.googleusercontent.com/media/research.google.com/en/us/archive/gfs-sosp2003.pdf), 2003
 - Zaharia, et al, Apache Spark:  A Unified Engine for Big Data Processing, Communications of the ACM, Nov 2016.
 - Vavilapalli, et al, Apache Hadoop YARN:  Yet Another Resource Negotiator, ACM SoCC’13.
 - CAP, IEEE Computer V45 N2 2/2012 pp. 21-58., esp: 21, 23, 30, 37, 43.
