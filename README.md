@@ -2,7 +2,7 @@
 2018Spring 
 
 - Lin & Ryaboy, [“Scaling Big Data Mining Infrastructure: The Twitter Experience”](http://kdd.org/exploration_files/V14-02-02-Lin.pdf), SIGKDD Explorations, V14 I2 
-- McKinsey Global Institute, “Big Data: The next frontier for innovation, competition, and productivity”, 2011 
+- McKinsey Global Institute, [“Big Data: The next frontier for innovation, competition, and productivity”](https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/big%20data%20the%20next%20frontier%20for%20innovation/mgi_big_data_exec_summary.ashx), 2011 
 - Dean & Ghemawat, “MapReduce:Simplified Data Processing on Large Clusters”, 2004
 - Ghemawat, et al, “Google File System” , 2003
 - Zaharia, et al, Apache Spark:  A Unified Engine for Big Data Processing, Communications of the ACM, Nov 2016.
