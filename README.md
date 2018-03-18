@@ -16,8 +16,8 @@
 - The Nature of Graph Data, Bloor & Jozwiak, The Bloor Group (skip pp9-10).
 - [A Survey of Collaborative Filtering Techniques](http://delivery.acm.org/10.1145/1730000/1722966/p4-su.pdf?ip=155.246.169.49&id=1722966&acc=PUBLIC&key=7777116298C9657D%2EC5AD4D952AEC6BE6%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1521400144_a56b02fc66751418be7d885bb14adf6e): Su & Khoshgoftaar
 - 2018 ACM Code of Ethics and Professional Conduct: Draft 2.  http://ethics.acm.org  
-- A Comparative Study of Collaborative Filtering Algorithms, Lee/Sun/Lebanon(http://arxiv.org/pdf/1205.3193.pdf)
-•	(Due 3/27) http://www.di.unipi.it/~cardillo/AA0304/fabio/boosting.pdf 
+- [A Comparative Study of Collaborative Filtering Algorithms](http://arxiv.org/pdf/1205.3193.pdf), Lee/Sun/Lebanon
+- [A Tutorial on Boosting](http://www.di.unipi.it/~cardillo/AA0304/fabio/boosting.pdf) 
 - Thomas Wedell-Wedellsborg, Are You Solving the Right Problems, Harvard Business Review, Jan-Feb 2017
 - Security & Privacy:
   - Verizon  Data Breach Digest 2017 (on CANVAS)
