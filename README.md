@@ -7,8 +7,7 @@
 - Ghemawat, et al, [“Google File System”](http://static.googleusercontent.com/media/research.google.com/en/us/archive/gfs-sosp2003.pdf), 2003
 - Zaharia, et al, Apache Spark:  A Unified Engine for Big Data Processing, Communications of the ACM, Nov 2016.
 - Vavilapalli, et al, Apache Hadoop YARN:  Yet Another Resource Negotiator, ACM SoCC’13.
-- CAP, IEEE Computer V45 N2 2/2012 pp. 21-58., esp: 21, 23, 30, 37, 43.
-- Lynch & Gilbert, “Perspectives on the CAP Theorem”, , 2012
+- CAP, IEEE Computer .Lynch & Gilbert, [“Perspectives on the CAP Theorem”](http://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf), 2012
 - Abadi, et al, “Column-Stores vs. Row-Stores:  How Different are they Really,
 - Stonebreaker One size fits all
 - Introduction to Cassandra https://academy.datastax.com/resources/brief-introduction-apache-cassandra
