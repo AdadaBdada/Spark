@@ -3,7 +3,7 @@
 **Goal**:  Sample m items uniformly from a stream<br>
 **Problem**:  We don’t know how long the stream is, and it could be effectively infinite.<br>
 **Some approaches**:<br>
-- Reservoir Sampling<br>
+- Reservoir Sampling<br> https://www.jianshu.com/p/63f6cf19923d
 - Min-Wise Sampling<br>
 - “Smart” Sampling<br>
 
