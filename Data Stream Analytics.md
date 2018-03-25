@@ -8,9 +8,10 @@
 - “Smart” Sampling<br>
 
 ### Sketching<br>
-**Problem**:  Suppose we want to count the distinct items in a stream.
-In sampling, many/most items aren’t sampled, so we don’t know their value.
-**Another approach**: Sketching
-- Model the input stream as a vector.
-- A sketch is the result of multiplying the input stream vector by a matrix (to be defined).
+**Problem**:  Suppose we want to count the distinct items in a stream.<br>
+In sampling, many/most items aren’t sampled, so we don’t know their value.<br>
+**Another approach**: 
+Sketching<br>
+- Model the input stream as a vector.<br>
+- A sketch is the result of multiplying the input stream vector by a matrix (to be defined).<br>
 
